@@ -83,7 +83,7 @@ module.exports = {
         ],
       },
     },
-    {
+ /*    {
       resolve: `gatsby-plugin-prefetch-google-fonts`,
       options: {
         fonts: [
@@ -93,7 +93,7 @@ module.exports = {
           },
         ],
       },
-    },
+    }, */
 
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sitemap`,
